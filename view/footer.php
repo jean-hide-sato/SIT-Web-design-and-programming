@@ -1,5 +1,5 @@
 <footer>
-    <p><a href="http://www.sic.shibaura-it.ac.jp/~z121032/" target="_blank">
+    <p><a href="https://jean-hide-sato.github.io/SIT-Web-Programming-AboutMe/" target="_blank">
         About the developer
     </a></p>
     <p class="copyright">
